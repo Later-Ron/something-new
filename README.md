@@ -1,2 +1,2 @@
 # something-new
-a sand box for ideas
+This is a sandbox for new ideas
